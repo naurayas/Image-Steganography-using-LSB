@@ -55,6 +55,9 @@ make
 ```bash
 make clean
 ```
+
+---
+
 ## Usage
 ### Encoding
 ```bash
