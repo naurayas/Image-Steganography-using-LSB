@@ -1,17 +1,8 @@
-/* Name         : Naura Yasmeen U
-   Reg No.      : 25017_094
+/* Name         : Naura Yasmeen 
    Start Date   : 19/11/2025
    End Date     : 22/11/2025
    Project Name : Steganography
-   Description  : This project implements a steganography system using .bmp image files.
-                  It allows user to hide secret data inside the image by modifying the
-                  LSB bits of the pixel values, generating a new encoded image that looks 
-                  identical to the original. The program can also be used to decode the hidden
-                  information by extracting the embedded bits. This ensures security of data
-                  transmission without altering the visible quality of the image.
 */
-
-
 
 #include <stdio.h>
 #include <string.h>
